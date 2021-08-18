@@ -15,5 +15,8 @@ From here you can:
 <p><a href="/login.php">Log In</a></p>
 <p><a href="/register.php">Register</a></p>
 <p><a href="/logout.php">Log Out</a></p>
+
+<a href="https://gabrielconlon.github.io/home.html">Return</a>
+
 </body>
 </html>
