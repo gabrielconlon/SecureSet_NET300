@@ -5,7 +5,8 @@
 //define('db', 'users');
 //define('characterset', 'utf8');
 
-$servername = "127.0.0.1";
+//$servername = "127.0.0.1";
+$servername = "localhost";
 $db = 'users';
 $dbuser = 'root';
 $dbpass = 'password';
